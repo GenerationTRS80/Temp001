@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dsWorld">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=PHIL6266\SQL2016_EVAL;Initial Catalog=World</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source dsWorld</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>651b25e8-dcfc-4eb6-85c7-fbc16ca2639f</DataSourceID>
+</RptDataSource>
