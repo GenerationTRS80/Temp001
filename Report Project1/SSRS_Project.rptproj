@@ -53,6 +53,7 @@
     <DataSource Include="dsWorld.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="Header and Footer2.rdl" />
     <Report Include="Products2.rdl" />
     <Report Include="Products3.rdl" />
     <Report Include="rptFormatting.rdl" />
